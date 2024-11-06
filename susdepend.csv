@@ -1,7 +1,6 @@
-﻿regiao;sus_dep;sus_ndep
-Brasil;80;20
-Centro-Oeste;85;15
-Sul;79;21
-Sudeste;65;35
-Nordeste;89;11
-Norte;91;9
+﻿regiao;populacao
+Nordeste;8912124
+Norte;2911831
+Sudeste;2010600
+Sul;1150258
+Centro-Oeste;796470
